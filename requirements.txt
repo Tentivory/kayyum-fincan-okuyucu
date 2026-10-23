@@ -1,0 +1,2 @@
+# Gereksinim yok, ama resmi olsun diye dosya var.
+# Eğer gerçekten bir şey istiyorsanız: time (zaten var)
